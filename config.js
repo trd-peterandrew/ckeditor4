@@ -22,6 +22,7 @@ CKEDITOR.editorConfig = function( config ) {
 		'dialogadvtab,' +
 		'div,' +
 		'elementspath,' +
+		'embed,' +
 		'enterkey,' +
 		'entities,' +
 		'filebrowser,' +
@@ -32,6 +33,8 @@ CKEDITOR.editorConfig = function( config ) {
 		'forms,' +
 		'horizontalrule,' +
 		'htmlwriter,' +
+		'html5audio,' +
+		'html5video,' +
 		'image,' +
 		'iframe,' +
 		'indentlist,' +
